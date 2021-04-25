@@ -1,0 +1,17 @@
+img{
+    border-radius: 12px;
+    width: 230px;
+}
+#box{
+    margin-bottom: 1rem;
+    padding: 1rem;
+    background-color: #dbffcf !important;
+}
+
+#body{
+    background-color: #b7ff9c;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
