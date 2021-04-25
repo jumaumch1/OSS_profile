@@ -4,8 +4,9 @@ img{
 }
 #box{
     margin-bottom: 1rem;
-    padding: 1rem;
+    padding: 1.5rem;
     background-color: #dbffcf !important;
+    border-color: #8eff69 !important;
 }
 
 #body{
@@ -14,4 +15,8 @@ img{
 a{
     text-decoration: none;
     color: black;
+    
+}
+.title{
+    margin-bottom: 1rem;
 }
