@@ -2,7 +2,7 @@
 
 #### Application attributes
 
-* `VideoStreamServer`
+* video-stream-server
 
 | Attribute name | Type | Default | Description |
 | ----------- | ------ | ------ | ------------- |
@@ -12,15 +12,13 @@
 | `FrameFile` | StringValue | None | The file that contains the video frame sizes |
 | `VideoLength` | UintegerValue | 60 | The length of the video in seconds |
 
-* `VideoStreamClient`
+* video-stream-client
 
 | Attribute name | Type | Default | Description |
 | ----------- | ------ | ------ | ------------- |
 | `RemoteAddress` | AddressValue | None | The destination address of the outbound packets |
 | `RemotePort` | UintegerValue | 5000 | The destination port of the outbound packets |
-| `IsRTP` | BooleanValue | True | True if the client wants to use RTP |
-
-
+| `IsRTP` | BooleanValue | true | True if the client wants to use RTP |
 
 #### Log Component
 
