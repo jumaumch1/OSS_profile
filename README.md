@@ -2,7 +2,7 @@
 
 
 * VideoStreamServer
-* 
+
 | Attribute name | Type | Default | Description |
 | ----------- | ------ | ------ | ------------- |
 | `Interval` | TimeValue | Seconds(0.15)  | The time to wait between packets |
