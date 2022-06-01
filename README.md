@@ -1,7 +1,7 @@
 # OSS_profile
 
 
-* VideoStreamServer
+* `VideoStreamServer`
 
 | Attribute name | Type | Default | Description |
 | ----------- | ------ | ------ | ------------- |
